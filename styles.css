@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.links ul {
+    display: flex;
+    list-style: none;
+    gap: 16px
+}
+
+.description,
+.sign-up-container {
+    display: flex;
+}
+
+#random-info {
+    text-align: center;
+}
+
+#card-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.third-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.fourth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
