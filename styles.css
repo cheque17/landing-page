@@ -96,3 +96,8 @@ a {
     border-style: none;
     font-weight: 800;
 }
+
+.description .image-1 {
+    width: 450px;
+    height: auto;
+}
