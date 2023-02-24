@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-family: sans-serif;
 }
 
 .header {
@@ -104,7 +105,7 @@ a {
 }
 
 .second-container {
-    padding: 0 200px;
+    padding: 0 200px 122px;
 }
 
 .card img {
