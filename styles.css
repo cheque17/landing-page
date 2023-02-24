@@ -40,3 +40,16 @@ footer {
     justify-content: center;
     align-items: center;
 }
+
+.first-container {
+    padding: 0 150px;
+}
+
+.logo {
+    flex-shrink: 0;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(92, 91, 91);
+}
