@@ -10,9 +10,10 @@
     gap: 16px
 }
 
-.description,
-.sign-up-container {
+.description {
     display: flex;
+    align-items: center;
+    padding: 100px 0;
 }
 
 #random-info {
@@ -44,6 +45,10 @@ footer {
 .first-container {
     padding: 0 150px;
 }
+.first-container, 
+footer {
+    background-color: #1F2937;
+}
 
 .logo {
     flex-shrink: 0;
@@ -51,5 +56,16 @@ footer {
 
 a {
     text-decoration: none;
-    color: rgb(92, 91, 91);
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.description div { 
+    flex-shrink: 1;
+}
+
+.description h2 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
 }
