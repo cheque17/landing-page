@@ -45,13 +45,10 @@ footer {
 .first-container {
     padding: 0 150px;
 }
+
 .first-container, 
 footer {
     background-color: #1F2937;
-}
-
-.logo {
-    flex-shrink: 0;
 }
 
 a {
@@ -67,5 +64,15 @@ a {
 .description h2 {
     font-size: 48px;
     font-weight: 900;
+    color: #f9faf8;
+}
+
+.description p {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.header p {
+    font-size: 24px;
     color: #f9faf8;
 }
