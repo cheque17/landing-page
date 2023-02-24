@@ -23,6 +23,7 @@ body {
 
 #random-info {
     text-align: center;
+    margin: 40px 0;
 }
 
 #card-container {
@@ -100,4 +101,18 @@ a {
 .description .image-1 {
     width: 450px;
     height: auto;
+}
+
+.second-container {
+    padding: 0 200px;
+}
+
+.card img {
+    width: 200px;
+    height: 200px;
+    border-radius: 14px;
+    border: 3px;
+    border-color: #3882f6;
+    border-style: solid;
+    
 }
