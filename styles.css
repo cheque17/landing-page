@@ -76,3 +76,13 @@ a {
     font-size: 24px;
     color: #f9faf8;
 }
+
+#random-info {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+
+.description button {
+    background-color: #3882f6;
+}
