@@ -35,6 +35,8 @@ body {
 .third-container {
     display: flex;
     flex-direction: column;
+    padding: 100px 200px;
+    background-color: #e5e7eb;
 }
 
 .fourth-container {
@@ -116,4 +118,10 @@ a {
     border-color: #3882f6;
     border-style: solid;
     
+}
+
+.third-container .cite {
+    font-size: 36px;
+    font-style: italic; 
+    font-weight: 100;
 }
